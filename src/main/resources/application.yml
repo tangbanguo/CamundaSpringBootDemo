@@ -30,7 +30,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/camunda_demo?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&useOldAliasMetadataBehavior=true
     username: root
-    password: skayliu
+    password: 123456
     tomcat:
       max-idle: 10
       max-wait: 10000
